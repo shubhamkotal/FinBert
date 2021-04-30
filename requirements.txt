@@ -3,3 +3,4 @@ Flask==1.1.1
 torch==1.7.1
 pytorch-pretrained-bert==0.6.2
 nltk==3.4.5
+sentencepiece==0.1.91
