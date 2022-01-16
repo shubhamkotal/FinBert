@@ -1,0 +1,2 @@
+# FinBert
+FinBERT is a pre-trained NLP model to analyze the sentiment of the financial text. It is built by further training the BERT language model in the finance domain, using a large financial corpus and thereby fine-tuning it for financial sentiment classification. For the details, please see FinBERT: Financial Sentiment Analysis with Pre-trained Language Models.  The project was deployed on the flask. Providing an indicator to buy, hold or sell stock based on the sentiment predicted for the following news headline/article.
